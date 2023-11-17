@@ -5,14 +5,14 @@ int main(void)
 	int* i;
 	char a;
 
-	printf("char‚ğ“ü—Í");
+	printf("charâ€šÃ°â€œÃ¼â€”Ã");
 	scanf_s("%c", &a);
 
 	for (i = 0; i < a; i++)
 	{
 		if (a[i]<= 65 && 90 >= a[i])
 		{
-			printf("‘å•¶š‚ª‚ ‚é");
+			printf("â€˜Ã¥â€¢Â¶Å½Å¡â€šÂªâ€šÂ â€šÃ©");
 		}
 
 		else { }
